@@ -22,8 +22,8 @@ public class AuthorizeIntent {
 		return Uri.parse(String.format(URI_TEMPLATE,
 			getText(R.string.host),
 			getText(R.string.oauth_client_id),
-			getText(R.string.data_host),
 			getText(R.string.data_scheme),
+			getText(R.string.data_host),
 			getText(R.string.data_path)));
 	}
 
