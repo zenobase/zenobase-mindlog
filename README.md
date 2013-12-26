@@ -1,10 +1,12 @@
 Zenobase MindLog
 ================
 
-Zenobase MindLog is a simple Android app for recording meditation sessions with a [NeuroSky MindWave] (http://www.neurosky.com/Products/MindWave.aspx) headset. 
+Zenobase MindLog is a simple Android app for recording meditation sessions with a 
+[NeuroSky MindWave](http://www.neurosky.com/Products/MindWave.aspx) headset. 
 
-This app can be used as a template for apps that record data to [Zenobase](https://zenobase.com/); in particular, 
-this app demonstrates how to use OAuth2 to obtain an authorization and send data to Zenobase on behalf of a user.
+This app can be used as a template for apps that record data to [Zenobase](https://zenobase.com/) through the 
+[API](https://zenobase.com/#/api/); in particular, this app demonstrates how to use OAuth2 to obtain an authorization 
+and send data to Zenobase on behalf of a user.
 
 When Bluetooth is disabled, the app will simulate a headset with random data.
 
